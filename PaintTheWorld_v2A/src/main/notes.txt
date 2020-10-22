@@ -1,0 +1,12 @@
+	/*
+			if ( i > Colors.colors.length - 1) {
+				int r = (int) (Math.random() * 255);
+				int g = (int) (Math.random() * 255);
+				int b = (int) (Math.random() * 255);
+				c = new Color(r, g, b);
+				
+			} else {
+				
+
+			}
+			*/
