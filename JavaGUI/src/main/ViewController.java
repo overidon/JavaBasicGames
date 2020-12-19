@@ -1,5 +1,5 @@
 /*
- *      PROJECT: DrawIO
+ *      PROJECT: JavaGUI
  *      FILE   : ViewController.java
  * DESCRIPTION : Primary View Controller and holds the 
  * 				 main driver method! 
