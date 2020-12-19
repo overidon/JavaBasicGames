@@ -1,3 +1,10 @@
+
+package main; 
+
+
+import javax.swing.event.MouseInputListener;
+import java.awt.event.*;
+
 public class Input implements KeyListener, MouseMotionListener, MouseInputListener {
 	
 	private DrawWindow  dw; 
