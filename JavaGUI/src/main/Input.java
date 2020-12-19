@@ -1,4 +1,4 @@
-public class Input implements KeyListener, MouseMotionListener, MouseInputListener, Elements {
+public class Input implements KeyListener, MouseMotionListener, MouseInputListener {
 	
 	private DrawWindow  dw; 
 	
